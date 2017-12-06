@@ -1,5 +1,5 @@
 Useful Links
 ============
 # 1. Git
-- A successful git branching model: [link](http://nvie.com/posts/a-successful-git-branching-model/)
+- A successful git branching model: <http://nvie.com/posts/a-successful-git-branching-model/>
 
